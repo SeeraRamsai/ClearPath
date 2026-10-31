@@ -1,5 +1,7 @@
 # ClearPath marketing website
 
+ClearPath is a digital growth agency helping businesses build reach and visibility through SEO, GEO and AEO services.
+
 Static, multi-page website for ClearPath. Source copy and reusable styles/scripts are in this project; generated production pages are in `dist/`.
 
 ## Local build
