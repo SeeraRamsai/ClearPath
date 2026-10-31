@@ -1,0 +1,19 @@
+{
+  "name": "clearpath-agency",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "python build.py && vite build",
+    "dev": "npm run build && vite dist --host 127.0.0.1",
+    "preview": "vite preview dist --host 127.0.0.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "vite": "^7.1.11"
+  }
+}
